@@ -12,7 +12,6 @@ namespace TestProject.Controllers
     {
         public IActionResult Index()
         {
-            // Comment to test pipelines triggers.
             return View();
         }
 
